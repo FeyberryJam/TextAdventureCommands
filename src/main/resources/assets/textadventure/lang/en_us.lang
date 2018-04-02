@@ -1,0 +1,39 @@
+#PARSE_ESCAPES
+
+mod.lang.apology=I meant to use the lang file more but it was just so quick and simple not to!  Please don't hate me :(
+
+mod.welcome.message=Welcome to Minecraft with Text Adventure Commands! Type /textadventure if you need help on how to play.
+
+deaths.explosions.general=There's no use going to pieces. Pull yourself together and start again.
+deaths.fall.general=Your attempt at flight was a smashing failure.
+deaths.fire.general=Oooh, that just burns me up!
+deaths.drown.general=Water you going to do now?
+deaths.cactus.general=What a prickly situation!
+deaths.wolf.general=How many times have you been told not to wolf down your food?
+
+commands.general.notplayer=Command must be used by a player!
+commands.general.ok=OK!
+
+commands.textadventure.usage=/textadventure
+commands.textadventure.execute=Commands to try out:\n/look /get /inventory /drop /attack /rummage /chop /eat /win\n\nSome commands (like /inventory) are nearly 100 percent done while others (like /chop) hardly work at all! Text Adventure Commands also adds more messages about what's happening around you as well as some Sierra-like death messages. §DHave fun!
+
+commands.look.usage=/look [everything|sun|location|items|creatures]
+commands.look.blind=§4You are blind and can not see right now!
+commands.look.sunbad=§4Oh God!  Never look directly at the sun, it hurts your eyes!
+commands.look.rainedon=You are being rained on. So exasperating!
+
+commands.get.usage=/get <all|item>
+
+commands.attack.usage=/attack [creature]
+
+commands.win.usage=/win
+
+commands.inventory.usage=/inventory
+
+commands.drop.usage=/drop [item]
+
+commands.rummage.usage=/rummage
+
+commands.chop.usage=/chop
+
+commands.eat.usage=/eat
