@@ -1,14 +1,15 @@
 # Text Adventure Commands
 
-Text Adventure Commands adds a whole new way to play Minecraft.  Take your gaming into the first dimension with pure text gameplay!  A bold new adventure awaits you.
+Text Adventure Commands adds a whole new way to play Minecraft.  Take your gaming into the first dimension with pure text gameplay!  A bold new experience awaits you.
 
-Text Adventure Commands was made by FeyberryJam in like 2 days when someone told me about Modjam.  I've never really used github before and don't know what I'm doing.
+Text Adventure Commands was made by FeyberryJam in like 2 days after I heard Modjam was a thing.  i haven't touched Java in nearly 2 years and I'm sort of new to github, licenses, sharing code, etc.  Please be kind to me.
 
-Text Adventure Commands has a really awesome license that it's under.  You just don't know it, it's from Canada.  GNU General Public, maybe?  I'll research it more later I guess >.<
+The registration for Modjam asked me to include a license so I slapped on some kind of GNU General Public license.  Just, you know, "OC PLEASE DO NOT STEAL" and we're cool.
 
-I'll try to fix the problems with this submission later :X
-
-You can find this already built in my dropbox here:
+You can find my mod ready to use (hopefully) here in my dropbox:
 https://www.dropbox.com/s/8y56nl26ih4rd4t/textadventurecommands.jar?dl=0
 
-Once the mod is installed, you can type /textadventure for some helpful information.  That's all, good bye!
+Once the mod is installed, you can type /textadventure for some helpful information.
+
+Thanks for looking!
+Lot's of love, FeyberryJam
