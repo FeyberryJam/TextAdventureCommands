@@ -8,4 +8,7 @@ Text Adventure Commands has a really awesome license that it's under.  You just 
 
 I'll try to fix the problems with this submission later :X
 
+You can find this already built in my dropbox here:
+https://www.dropbox.com/s/8y56nl26ih4rd4t/textadventurecommands.jar?dl=0
+
 Once the mod is installed, you can type /textadventure for some helpful information.  That's all, good bye!
