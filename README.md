@@ -1,5 +1,4 @@
 # Text Adventure Commands
-Half april fool's joke, half mod jam entry.  All me not knowing what I'm doing.
 
 Text Adventure Commands adds a whole new way to play Minecraft.  Take your gaming into the first dimension with pure text gameplay!  A bold new adventures awaits you.
 
