@@ -2,6 +2,8 @@ package com.feyberryjam.minecraft.textadventure.capabilities;
 
 public class DefaultReceivedJoinMessage implements IReceivedJoinMessage 
 {
+	// TODO: fix this nonsense
+	
 	private boolean received = false;
 
 	@Override

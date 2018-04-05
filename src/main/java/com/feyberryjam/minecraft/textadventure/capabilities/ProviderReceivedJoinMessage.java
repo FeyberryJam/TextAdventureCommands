@@ -9,10 +9,10 @@ import net.minecraftforge.common.capabilities.ICapabilitySerializable;
 public class ProviderReceivedJoinMessage implements ICapabilitySerializable<NBTBase> 
 {
 
-	// this is all easier and better then nbt?  Not feeling sold so far, still on step like 5 of 30 here
-	 @CapabilityInject(IReceivedJoinMessage.class)
-	 public static final Capability<IReceivedJoinMessage> CAP_ReceivedJoinMessage = null;
-	 private IReceivedJoinMessage instance = CAP_ReceivedJoinMessage.getDefaultInstance();
+	// I understand much of this far better then I did when I first pounded this out at the last second and will need to be making fixes
+	@CapabilityInject(IReceivedJoinMessage.class)
+	public static final Capability<IReceivedJoinMessage> CAP_ReceivedJoinMessage = null;
+	private IReceivedJoinMessage instance = CAP_ReceivedJoinMessage.getDefaultInstance();
 	
 	
 	@Override

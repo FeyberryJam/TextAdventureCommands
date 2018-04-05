@@ -9,9 +9,7 @@ import net.minecraftforge.common.capabilities.Capability.IStorage;
 
 public class StorageReceivedJoinMessage implements IStorage<IReceivedJoinMessage>
 {
-	// notice write is get, and read is set (sort of the opposite, really) since I have to get what to write, and set what is read
-
-	// from a quick scan I didn't see a getAsBoolean/setAsBoolean so I gues this is fine...
+	// being now far less tired and over worked, I see why the byte/boolean conversion I did here was silly and I'll be fixing this later
 
 	@Override
 	public NBTBase writeNBT(Capability<IReceivedJoinMessage> capability, IReceivedJoinMessage instance, EnumFacing side) 
