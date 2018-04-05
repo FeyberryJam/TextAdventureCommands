@@ -30,5 +30,4 @@ public class DefaultReceivedJoinMessage implements IReceivedJoinMessage
 		else
 			this.received = true;
 	}
-
 }
