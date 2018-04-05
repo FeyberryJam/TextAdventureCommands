@@ -9,7 +9,6 @@ import net.minecraftforge.common.capabilities.ICapabilitySerializable;
 public class ProviderReceivedJoinMessage implements ICapabilitySerializable<NBTBase> 
 {
 
-	// I understand much of this far better then I did when I first pounded this out at the last second and will need to be making fixes
 	@CapabilityInject(IReceivedJoinMessage.class)
 	public static final Capability<IReceivedJoinMessage> CAP_ReceivedJoinMessage = null;
 	private IReceivedJoinMessage instance = CAP_ReceivedJoinMessage.getDefaultInstance();
